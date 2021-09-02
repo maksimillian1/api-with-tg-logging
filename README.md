@@ -44,7 +44,7 @@
 ```
 
 ## Setup env
-1) Set TG_TOKEN=<token>
+1) Set TG_TOKEN=<your_token>
 2) Set TG_CHANNEL=<result.message.from.id>
 
 ## Start the app
